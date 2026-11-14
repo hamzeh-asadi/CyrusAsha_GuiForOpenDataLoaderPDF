@@ -6,8 +6,8 @@
 
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D6?logo=windows)](https://www.microsoft.com/windows)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/downloads/)
-[![Dependencies](https://img.shields.io/badge/Dependencies-none%20(stdlib%20only)-success)]()
-[![UI](https://img.shields.io/badge/UI-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C%20%7C%20English-7c3aed)]()
+[![Dependencies](https://img.shields.io/badge/Dependencies-none%20(stdlib%20only)-success)](#-requirements--پیش‌نیازها)
+[![UI](https://img.shields.io/badge/UI-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C%20%7C%20English-7c3aed)](#-page-guide--راهنمای-صفحه‌ها)
 [![Upstream](https://img.shields.io/badge/Upstream-opendataloader--pdf-4f46e5)](https://github.com/opendataloader-project/opendataloader-pdf)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
