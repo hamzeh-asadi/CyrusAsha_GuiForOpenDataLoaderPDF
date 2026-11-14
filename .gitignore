@@ -17,3 +17,6 @@ Thumbs.db
 .venv/
 .coverage
 htmlcov/
+
+# Local junction to %USERPROFILE%.agents - do not commit the linked tree
+.agents/
