@@ -1,0 +1,19 @@
+# Freebuff Desktop local state (project id, chats) - never commit
+.freebuff/
+# Runtime data: virtual environment, portable Java, jobs, uploads, logs, settings
+# (anchored with "/": src/cyrusasha_odl/data/ holds the word list and must be committed)
+/data/
+# Release packages - attach them to GitHub Releases instead of committing them
+/release/
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+Thumbs.db
+# Tool caches
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.venv/
+.coverage
+htmlcov/

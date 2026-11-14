@@ -1,0 +1,389 @@
+{
+  "file name" : "fa-test.pdf",
+  "number of pages" : 1,
+  "author" : null,
+  "title" : null,
+  "creation date" : "D:20261111203419+00'00'",
+  "modification date" : "D:20261111203419+00'00'",
+  "kids" : [ {
+    "type" : "heading",
+    "pdfua_tag" : "H1",
+    "id" : 30,
+    "level" : "Doctitle",
+    "page number" : 1,
+    "bounding box" : [ 302.754, 776.851, 565.78, 809.663 ],
+    "heading level" : 1,
+    "font" : "Vazirmatn-Bold",
+    "font size" : 21.0,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "ﺎﺳآشورﻮﮐ ﺖﮐﺮﺷ ﮥﻧﻻﺎﺳ شراﺰﮔ"
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H2",
+    "id" : 31,
+    "level" : "Subtitle",
+    "page number" : 1,
+    "bounding box" : [ 320.004, 671.671, 566.317, 756.28 ],
+    "heading level" : 2,
+    "font" : "Vazirmatn-Bold",
+    "font size" : 15.75,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "و یراﺰﻓامﺮﻧ تﻻﻮﺼﺤﻣ ﯽﻓﺮﻌﻣ :لوا ﺶﺨﺑ لﺎﺳ رد ﺖﮐﺮﺷ ﯽﻋﻮﻨﺼﻣ شﻮﻫ تﺎﻣﺪﺧ ۱۴۰۴"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 32,
+    "page number" : 1,
+    "bounding box" : [ 178.254, 598.74, 566.189, 654.897 ],
+    "font" : "Vazirmatn-Regular",
+    "font size" : 10.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "ﺪﻣآرد ۱۴۰۴ لﺎﺳ رد .ﺖﺳا هﺪﺷ ﻪﯿﻬﺗ PDF یﺎﻫﻞیﺎﻓ زا ﯽﺳرﺎﻓ ﻦﺘﻣ جاﺮﺨﺘﺳا ﺶﯾﺎﻣزآ یاﺮﺑ ﺪﻨﺳ ﻦیا ﯽﻨﯿﺑﺶﯿپ و ﺖﺷاد ﺪﺷر ﺪﺻرد ۲۳ ﻞﺒﻗ لﺎﺳ ﻪﺑ ﺖﺒﺴﻧ ﻪﮐ ﺪﯿﺳر لﺎﯾر درﺎﯿﻠﯿﻣ ۱۲٬۵۰۰ ﻪﺑ ﺖﮐﺮﺷ .ﺪﺑﺎﯾ ﻪﻣادا ﺪﻧور ﻦیا دﻮﺷﯽم"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 33,
+    "page number" : 1,
+    "bounding box" : [ 176.754, 528.24, 566.353, 584.397 ],
+    "font" : "Vazirmatn-Regular",
+    "font size" : 10.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "یاﺮﺑ .ﺪﻨﮐﯽم رﺎﮐ Java 11 ﺎﺑ ﻪﮐ ﺖﺳا 2.5.21 ﮥﺨﺴﻧ OpenDataLoader PDF ﺎﻣ ﯽﻠﺻا لﻮﺼﺤﻣ ﺎت ۸ ﺖﻋﺎﺳ) ﺪﯾﺮیﮕﺑ سﺎﻤﺗ ۸۸۸۸۷۷۷۷-۰۲۱ ﻦﻔﻠت ﺎﯾ info@cyrusasha.ir ﻞیﻤﯾا ﺎﺑ ﺮﺘﺸﯿﺑ تﺎﻋﻼﻃا .(۱۶"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 34,
+    "page number" : 1,
+    "bounding box" : [ 202.254, 477.99, 566.189, 513.897 ],
+    "font" : "Vazirmatn-Regular",
+    "font size" : 10.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "رﻮﻃﻦیا ﺎﯾآ ؛ﺪﻨﺷﺎﺑ ﺖﺳرد ﺪﯾﺎﺑ «یﺎﻫبﺎتﮐ» و «ﺎﻫﻪﻧﺎﺧ» و «ﻢﯿﻫاﻮﺧﯽم» و «ﻪﻠﺻﺎﻓﻢﯿﻧ» تﺎﻤﻠﮐ .ﺖﺳا ۱۴۰۴/۰۸/۲۰ ﺦیرﺎت ،ﻪﻠﺑ ؟ﺖﺳا"
+  }, {
+    "type" : "table",
+    "pdfua_tag" : "Table",
+    "id" : 1,
+    "level" : "1",
+    "page number" : 1,
+    "bounding box" : [ 371.754, 357.63, 566.004, 464.88 ],
+    "number of rows" : 4,
+    "number of columns" : 3,
+    "rows" : [ {
+      "type" : "table row",
+      "row number" : 1,
+      "id" : 2,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TH",
+        "id" : 3,
+        "page number" : 1,
+        "bounding box" : [ 372.129, 437.88, 407.004, 464.505 ],
+        "row number" : 1,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "is_header" : true,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 4,
+          "page number" : 1,
+          "bounding box" : [ 381.129, 443.49, 398.433, 459.897 ],
+          "font" : "Vazirmatn-Bold",
+          "font size" : 10.5,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "ﺪﺷر"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TH",
+        "id" : 5,
+        "page number" : 1,
+        "bounding box" : [ 407.004, 437.88, 517.254, 464.505 ],
+        "row number" : 1,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "is_header" : true,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 6,
+          "page number" : 1,
+          "bounding box" : [ 415.254, 443.49, 509.41, 459.897 ],
+          "font" : "Vazirmatn-Bold",
+          "font size" : 10.5,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "(نﺎﻣﻮﺗ نﻮیﻠﯿﻣ) شوﺮﻓ"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TH",
+        "id" : 7,
+        "page number" : 1,
+        "bounding box" : [ 517.254, 437.88, 565.629, 464.505 ],
+        "row number" : 1,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "is_header" : true,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 8,
+          "page number" : 1,
+          "bounding box" : [ 530.754, 443.49, 552.16, 459.897 ],
+          "font" : "Vazirmatn-Bold",
+          "font size" : 10.5,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "ﻞﺼﻓ"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 2,
+      "id" : 9,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 10,
+        "page number" : 1,
+        "bounding box" : [ 372.129, 410.88, 407.004, 437.88 ],
+        "row number" : 2,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 11,
+          "page number" : 1,
+          "bounding box" : [ 386.754, 417.24, 399.412, 433.647 ],
+          "font" : "Vazirmatn-Regular",
+          "font size" : 10.5,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "۱۰٪"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 12,
+        "page number" : 1,
+        "bounding box" : [ 407.004, 410.88, 517.254, 437.88 ],
+        "row number" : 2,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 13,
+          "page number" : 1,
+          "bounding box" : [ 489.504, 417.24, 509.684, 433.647 ],
+          "font" : "Vazirmatn-Regular",
+          "font size" : 10.5,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "۱٬۲۰۰"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 14,
+        "page number" : 1,
+        "bounding box" : [ 517.254, 410.88, 565.629, 437.88 ],
+        "row number" : 2,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 15,
+          "page number" : 1,
+          "bounding box" : [ 542.754, 417.24, 557.851, 433.647 ],
+          "font" : "Vazirmatn-Regular",
+          "font size" : 10.5,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "رﺎﻬﺑ"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 3,
+      "id" : 16,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 17,
+        "page number" : 1,
+        "bounding box" : [ 372.129, 383.88, 407.004, 410.88 ],
+        "row number" : 3,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 18,
+          "page number" : 1,
+          "bounding box" : [ 380.004, 390.24, 399.694, 406.647 ],
+          "font" : "Vazirmatn-Regular",
+          "font size" : 10.5,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "21%"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 19,
+        "page number" : 1,
+        "bounding box" : [ 407.004, 383.88, 517.254, 410.88 ],
+        "row number" : 3,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 20,
+          "page number" : 1,
+          "bounding box" : [ 483.504, 390.24, 509.655, 406.647 ],
+          "font" : "Vazirmatn-Regular",
+          "font size" : 10.5,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "1,450"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 21,
+        "page number" : 1,
+        "bounding box" : [ 517.254, 383.88, 565.629, 410.88 ],
+        "row number" : 3,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 22,
+          "page number" : 1,
+          "bounding box" : [ 525.504, 390.24, 557.48, 406.647 ],
+          "font" : "Vazirmatn-Regular",
+          "font size" : 10.5,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "نﺎتﺴﺑﺎت"
+        } ]
+      } ]
+    }, {
+      "type" : "table row",
+      "row number" : 4,
+      "id" : 23,
+      "cells" : [ {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 24,
+        "page number" : 1,
+        "bounding box" : [ 372.129, 358.005, 407.004, 383.88 ],
+        "row number" : 4,
+        "column number" : 1,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 25,
+          "page number" : 1,
+          "bounding box" : [ 383.004, 363.24, 399.412, 379.647 ],
+          "font" : "Vazirmatn-Regular",
+          "font size" : 10.5,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "۲۴٪"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 26,
+        "page number" : 1,
+        "bounding box" : [ 407.004, 358.005, 517.254, 383.88 ],
+        "row number" : 4,
+        "column number" : 2,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 27,
+          "page number" : 1,
+          "bounding box" : [ 488.754, 363.24, 509.684, 379.647 ],
+          "font" : "Vazirmatn-Regular",
+          "font size" : 10.5,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "۱٬۸۰۰"
+        } ]
+      }, {
+        "type" : "table cell",
+        "pdfua_tag" : "TD",
+        "id" : 28,
+        "page number" : 1,
+        "bounding box" : [ 517.254, 358.005, 565.629, 383.88 ],
+        "row number" : 4,
+        "column number" : 3,
+        "row span" : 1,
+        "column span" : 1,
+        "kids" : [ {
+          "type" : "paragraph",
+          "pdfua_tag" : "P",
+          "id" : 29,
+          "page number" : 1,
+          "bounding box" : [ 539.754, 363.24, 558.025, 379.647 ],
+          "font" : "Vazirmatn-Regular",
+          "font size" : 10.5,
+          "text color" : "[0.0, 0.0, 0.0]",
+          "content" : "ﺰییﺎﭘ"
+        } ]
+      } ]
+    } ]
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 35,
+    "page number" : 1,
+    "bounding box" : [ 176.004, 329.49, 448.854, 345.897 ],
+    "font" : "Vazirmatn-Regular",
+    "font size" : 10.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "The Persian word مﻼﺳ means hello and بﺎتﮐ means book."
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 36,
+    "level" : "2",
+    "page number" : 1,
+    "bounding box" : [ 188.004, 298.74, 566.189, 315.147 ],
+    "font" : "Vazirmatn-Regular",
+    "font size" : 10.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : ".رﺎﺒﺘﺧﻼﻟ ﺮيﺼﻗ ﺺﻧ ﺔﺤﻔﺼﻟا هﺬﻫ ﻲﻓ ﺐﺘﻛ ﺪﻗو ،ﻢﻳﺮﻜﻟا نآﺮﻘﻟا ﺔﻐﻟ ﻲﻫو اﺪﺟ ﺔﻠﻴﻤﺟ ﺔﻴﺑﺮﻌﻟا ﺔﻐﻠﻟا"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 37,
+    "page number" : 1,
+    "bounding box" : [ 443.754, 268.74, 565.797, 285.147 ],
+    "font" : "Vazirmatn-Regular",
+    "font size" : 10.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "ﯽﺳرﺎﻓ نﺎﺑز زا ﻞﻣﺎﮐ ﯽﻧﺎﺒﯿﺘﺸﭘ •"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 38,
+    "page number" : 1,
+    "bounding box" : [ 396.504, 237.99, 566.25, 254.397 ],
+    "font" : "Vazirmatn-Regular",
+    "font size" : 10.5,
+    "text color" : "[0.0, 0.0, 0.0]",
+    "content" : "HTML و JSON و Markdown ﯽﺟوﺮﺧ .۲"
+  } ]
+}
